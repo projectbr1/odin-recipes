@@ -1,1 +1,2 @@
 # odin-recipes
+Do you not want to know how websites are created? Think of Google or Facebook or YouTube. All of their structures were built on HTML, which stands for Hyperlink Text Markup Language. I had the opportunity to learn the fundmentals of it. From paragraphs and headings to setting up links and images. I have a great time
